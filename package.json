@@ -1,0 +1,12 @@
+{
+    "name": "lora_root_dashboard",
+    "description": "Dashboard for control of all installed sensing modles for OSU NREL Test",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
